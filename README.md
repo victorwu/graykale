@@ -8,31 +8,31 @@ The "healthier" option to browsing the computer.
 https://github.com/victorwu/graykale
 
 
-##What is Gray Kale?
+## What is Gray Kale?
 
 Gray Kale is an app that enables/disables the grayscale 
 accessibility option on macOS Sierra.
 
 
 
-##How much is GrayKale?
+## How much is GrayKale?
 
 GrayKale is completely free. We only ask to you to
 share this if you have found it useful.
 
 
 
-##How do I Install this?
+## How do I Install this?
 
 Try one of the following:
 
-######EASY Method
+##### EASY Method
 1. Drag the "GrayKale.app" file to your apps folder
 2. Drag it to your dashboard for easy access
 3. Click on the app to use it
 Feel free to rename the file if you like
 
-######Long Method
+##### Long Method
 (To view the code and compile it manually.
 Smaller file size.)
 
@@ -44,7 +44,7 @@ Smaller file size.)
 
 
 
-##How do I Uninstall this?
+## How do I Uninstall this?
 
 Delete the file.
 
