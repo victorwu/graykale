@@ -30,11 +30,10 @@ Try one of the following:
 1. Drag the "GrayKale.app" file to your apps folder
 2. Drag it to your dashboard for easy access
 3. Click on the app to use it
-Feel free to rename the file if you like
+  -Feel free to rename the file if you like
 
 ##### Long Method
-(To view the code and compile it manually.
-Smaller file size.)
+  -To view the code and compile it manually. Smaller file size.
 
 1. Open "Script Editor"
 2. Navigate to Graykale folder
