@@ -1,2 +1,58 @@
 # graykale
-Shortcut to enable/disable the "Use Grayscale" Accessibility option. Optimized for macOS Sierra.
+
+Shortcut to enable/disable the "Use Grayscale" 
+accessibility option. Made for macOS Sierra.
+
+The "healthier" option to browsing the computer.
+
+https://github.com/victorwu/graykale
+
+
+=======================================================
+                  What is Gray Kale?
+=======================================================
+Gray Kale is an app that enables/disables the grayscale 
+accessibility option on macOS Sierra.
+
+
+
+=======================================================
+                 How much is GrayKale?
+=======================================================
+GrayKale is completely free. We only ask to you to
+share this if you have found it useful.
+
+
+
+=======================================================
+                How do I Install this?
+=======================================================
+Try one of the following:
+
+----------------------EASY Method----------------------
+Drag the "grayscale.app" file to your apps folder
+Drag it to your dashboard for easy access
+Click on the app to use it
+Feel free to rename the file if you like
+
+----------------------Long Method----------------------
+(To view the code and compile it manually.
+Smaller file size.)
+
+1. Open "Script Editor"
+2. Navigate to Graykale folder
+3. Select "grayscale.applescript"
+4. Click on the play button to Run the Script
+5. If it works, click the hammer "Compile the Script"
+
+
+
+=======================================================
+               How do I Uninstall this?
+=======================================================
+Delete the file.
+
+
+
+Cheers!
+victor.works
