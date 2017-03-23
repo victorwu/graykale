@@ -26,13 +26,13 @@ share this if you have found it useful.
 
 Try one of the following:
 
-##### EASY Method
+#### EASY Method
 1. Drag the "GrayKale.app" file to your apps folder
 2. Drag it to your dashboard for easy access
 3. Click on the app to use it
   - Feel free to rename the file if you like
 
-##### Long Method
+#### Long Method
   - To view the code and compile it manually. Smaller file size.
 
 1. Open "Script Editor"
