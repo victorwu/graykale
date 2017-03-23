@@ -17,7 +17,7 @@ accessibility option on macOS Sierra.
 
 ## How much is GrayKale?
 
-GrayKale is completely free. We only ask to you to
+GrayKale is completely free. I only ask for you to
 share this if you have found it useful.
 
 
@@ -30,10 +30,10 @@ Try one of the following:
 1. Drag the "GrayKale.app" file to your apps folder
 2. Drag it to your dashboard for easy access
 3. Click on the app to use it
-  -Feel free to rename the file if you like
+  - Feel free to rename the file if you like
 
 ##### Long Method
-  -To view the code and compile it manually. Smaller file size.
+  - To view the code and compile it manually. Smaller file size.
 
 1. Open "Script Editor"
 2. Navigate to Graykale folder
@@ -45,9 +45,10 @@ Try one of the following:
 
 ## How do I Uninstall this?
 
-Delete the file.
+  To uninstall, remove the file from your Applications folder.
 
 
+Hope you enjoy it! Feel free to fork, star, share, send me comments or feedback.
 
 Cheers!
 [victor.works](http://victor.works/)
