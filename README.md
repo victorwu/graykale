@@ -22,8 +22,7 @@ GrayKale is completely free. I only ask for you to share this if you have found 
 
 1. Drag the "GrayKale.app" file to your apps folder
 2. Drag it to your dashboard for easy access
-3. Click on the app to use it
-  - Feel free to rename the file if you like
+3. Click on the app to toggle grayscale color filter
 
 #### Build from source (latest update from https://discussions.apple.com/thread/251014144)
 
@@ -32,6 +31,30 @@ GrayKale is completely free. I only ask for you to share this if you have found 
 3. Select "graykale.applescript"
 4. Click on the play button to Run the Script
 5. If it works, click the hammer "Compile the Script"
+
+Export to .app file
+6. Go to "File/Export..." choose save location
+7. File Format: choose "Application", I kept everything unchecked
+8. Save
+
+#### Troubleshooting System Permissions
+
+Sometimes the system may block the application's actions. If this happens you may need to try these steps:
+1. Open "System Preferences", navigate to "Security & Privacy", click on "Privacy" pane on the top bar
+2. Unlock the padlock icon on the bottom left of the window.
+3. On the left scroll area, click on "Accessibility"
+4. Now open finder and navigate to the location of GrayKale.app (Applications/ folder)
+5. Click and drag GrayKale to the left scroll area of the Privacy Settings window, make sure it's checked and enabled. 
+6. Try running the app again. If it doesn't work, continue to 7.
+7. Click on "Automation" in the left scroll area, look for "GrayKale" and check "System Events"
+8. If it doesn't work. Feel free to submit a Github issue or reach out and I can try to help.
+
+#### Customization
+
+1. Unzip zip file for pre-built app's icon
+2. Right-click, choose "Get Info" on pre-built app, click on icon on top-left of the popup window, then copy (Cmd+C)
+3. Right-click, choose "Get Info" on newly built app, click on icon on top-left, then paste (Cmd+V)
+4. Feel free to rename the app for further customization
 
 #### Using GrayKale Automator
 

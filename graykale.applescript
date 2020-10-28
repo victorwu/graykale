@@ -1,6 +1,6 @@
 -- set_grayscale.applescript
 -- alternates between grayscale and normal display with each run.
--- Tested on High Sierra (10.13.6), Mojave (10.14.6), and Catalina 10.15.2
+-- Tested on High Sierra (10.13.6), Mojave (10.14.6), and Catalina (10.15.2, 10.15.7)
 -- Revision: 11/19/2019, Upgrade script for Catalina
 -- VikingOSX, 12/30/2018, Apple Support Communities, No warranty at all
 
